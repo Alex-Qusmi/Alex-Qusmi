@@ -10,7 +10,7 @@ I'm a passionate *Software Developer* and *Creative Filmmaker* with a unique ble
 - 🔭 Working on: *A personal portfolio to showcase my skills and projects.*
 - 🌍 Languages: * Programming: C, C++, Kotlin, HTML, SQL, Python,
                    Human: English, Nepali, Hindi*
-- 📫 How to reach me: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white*sunilalex750@gamil.com*
+- 📫 How to reach me: (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)*sunilalex750@gamil.com*
 - ⚡ Fun fact: *When I'm not coding, you'll find me capturing breathtaking shots while traveling*
 
 ## My Skills 🧠
