@@ -6,6 +6,8 @@
 
 I'm a passionate *[Your Job Title / Developer Role]* with experience in *[technologies you're proficient in]*. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
+I'm a passionate Software Developer and Creative Filmmaker with a unique blend of technical expertise and storytelling flair. I enjoy solving complex problems, building impactful projects, and exploring new technologies
+
 - 🌱 Currently learning: *[new technologies or skills you're currently learning]*
 - 🔭 Working on: *[current projects or side-projects]*
 - 🌍 Languages: *[programming languages and human languages you speak]*
