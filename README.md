@@ -40,5 +40,5 @@ I'm a passionate *Software Developer* and *Creative Filmmaker* with a unique ble
 ## Get in Touch 📬
 
 - *[Personal Website / Blog]*(your_website_or_blog_link)
-- *[LinkedIn]*(your_linkedin_profile_link)
+- *[LinkedIn]*(https://www.linkedin.com/in/alex-kusmi-83203833b/)
 - *[Twitter]*(your_twitter_profile_link)
