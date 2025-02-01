@@ -1,6 +1,6 @@
 # Hi there, I'm Alex Qusmi! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://i.pinimg.com/originals/02/87/d3/0287d3ba8b3330fca99f69e2001d3168.gif)
 
 ## About Me 🚀
 
